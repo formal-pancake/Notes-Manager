@@ -2,8 +2,8 @@
 name = "notes-manager"
 version = "0.1.0"
 edition = "2021"
-authors = ["***REMOVED***"]
-repository = "https://github.com/***REMOVED***/Notes-Manager"
+authors = ["spookicazt"]
+repository = "https://github.com/spookicazt/Notes-Manager"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

@@ -9,7 +9,7 @@ Notes-Manager is a [tui](https://docs.rs/tui) app that lets you write and save n
 ### Clone the repository
 
 ```sh
-> git clone https://github.com/***REMOVED***/Notes-Manager.git
+> git clone https://github.com/spookicazt/Notes-Manager.git
 ```
 
 ### Launch application
@@ -20,7 +20,7 @@ Notes-Manager is a [tui](https://docs.rs/tui) app that lets you write and save n
 
 Or alternatively, download the executable:
 
-https://github.com/***REMOVED***/Notes-Manager/releases
+https://github.com/spookicazt/Notes-Manager/releases
 
 # Controls
  - 'q' - quit the application
